@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" width="100%" />
+<img src="banner.svg" width="100%" />
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Robert-x1.Robert-x1" />
