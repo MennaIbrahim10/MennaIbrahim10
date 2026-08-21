@@ -1,7 +1,17 @@
 <img src="banner.svg" width="100%" />
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Robert-x1.Robert-x1" />
+  <img src="https://github.com/MennaIbrahim10.png" alt="Menna Ibrahim" width="150" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Menna Ibrahim</h1>
+
+<p align="center">
+  <strong>Software Engineer | Aspiring Full-Stack .NET Developer</strong>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MennaIbrahim10.MennaIbrahim10" />
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
 </p>
 
@@ -9,7 +19,10 @@
 
 <h2>🧠 About Me</h2>
 
-<p>Hi 👋, I'm  <strong>Menna Ibrahim</strong>,a software Engineer from Egypt</p>
+<p>
+  I'm a Software Engineer from Egypt, passionate about building software
+  and learning backend development with .NET.
+</p>
 
 <h2>💻 Code</h2>
 
@@ -22,7 +35,9 @@ class SoftwareEngineer
 
     public void SayHi()
     {
-        Console.WriteLine("Thanks for dropping by, hope you find some of my work interesting.");
+        Console.WriteLine(
+            "Thanks for dropping by, hope you find some of my work interesting."
+        );
     }
 }
 
@@ -35,24 +50,36 @@ class Program
     }
 }
 ```
-<!-- Profile Picture -->
-<p align="center">
-  <img
-    src="https://github.com/MennaIbrahim10.png"
-    alt="Menna Ibrahim"
-    width="150"
-  />
+
+<h2>🌱 Currently Learning</h2>
+
+<ul>
+  <li>Backend Development</li>
+  <li>.NET & ASP.NET Core</li>
+  <li>Entity Framework Core</li>
+  <li>SQL Server</li>
+</ul>
+
+<h2>💬 Ask Me About</h2>
+
+<p>
+  Backend Development, .NET, C++, C, Algorithms, Data Structures, and OOP.
 </p>
 
-<!-- Profile Views -->
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=MennaIbrahim10&label=Profile%20views&color=0e75b6&style=flat"
-    alt="MennaIbrahim10"
-  />
+<h2>📫 Connect With Me</h2>
+
+<p>
+  📝 <a href="https://www.linkedin.com/in/menna-ibrahim-b0b030295/">
+    LinkedIn
+  </a>
 </p>
 
-<!-- GitHub Trophies -->
+<p>
+  📧 <strong>menna.ibrahim.net@gmail.com</strong>
+</p>
+
+<h2>🏆 GitHub Trophies</h2>
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
@@ -62,13 +89,9 @@ class Program
   </a>
 </p>
 
-- 🌱 I’m currently learning **Backend,.NET**
+<h2>⚡ Fun Fact</h2>
 
-- 📝 Linkedin [https://www.linkedin.com/in/robert-romany-258b4b317/](https://www.linkedin.com/in/robert-romany-dev/)
-
-- 💬 Ask me about **Backend,.NET,C++,C,Algorithms,Data Structures,OOP**
-
-- 📫 How to reach me **menna.ibrahim.net@gmail.com**
-
-- ⚡fact **I think AM Helpful**
+<p>
+  I believe that being helpful is one of the best ways to grow and learn. 😊
+</p>
 
