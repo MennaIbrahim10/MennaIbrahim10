@@ -35,13 +35,32 @@ class Program
     }
 }
 ```
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2fed43d1-0532-442e-af80-08297915247b" />
+<!-- Profile Picture -->
+<p align="center">
+  <img
+    src="https://github.com/MennaIbrahim10.png"
+    alt="Menna Ibrahim"
+    width="150"
+  />
+</p>
 
+<!-- Profile Views -->
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=MennaIbrahim10&label=Profile%20views&color=0e75b6&style=flat"
+    alt="MennaIbrahim10"
+  />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robert-x1&label=Profile%20views&color=0e75b6&style=flat" alt="robert-x1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=robertromany" alt="robert-x1" /></a> </p>
+<!-- GitHub Trophies -->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=MennaIbrahim10"
+      alt="GitHub Trophies"
+    />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **Backend,.NET**
 
