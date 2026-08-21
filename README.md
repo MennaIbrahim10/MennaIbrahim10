@@ -1,9 +1,5 @@
 <img src="banner.svg" width="100%" />
 
-<p align="center">
-  <img src="https://github.com/MennaIbrahim10.png" alt="Menna Ibrahim" width="150" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Menna Ibrahim</h1>
 
 <p align="center">
