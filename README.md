@@ -54,6 +54,7 @@ class Program
 <h2>🌱 Currently Learning</h2>
 
 <ul>
+  <li>ASP.NET Core MVC</li>
   <li>ASP.NET Core Web API</li>
   <li>Backend Development</li>
 </ul>
@@ -61,8 +62,8 @@ class Program
 <h2>🛠️ Tech Stack</h2>
 
 <p>
-  C# • .NET • ASP.NET Core • Entity Framework Core • SQL Server
-  • LINQ • ADO.NET • HTML • CSS • Bootstrap
+  C# • .NET • ASP.NET Core Basics • Entity Framework Core • SQL Server
+  • LINQ • HTML
 </p>
 
 <h2>💬 Ask Me About</h2>
