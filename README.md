@@ -38,18 +38,14 @@ fun main() {
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=robertromany" alt="robert-x1" /></a> </p>
 
-- 🌱 I’m currently learning **Android Studio,Kotlin**
+- 🌱 I’m currently learning **Backend,.NET**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/RobertRomany](https://linktr.ee/RobertRomany)
+- 📝 Linkedin [https://www.linkedin.com/in/robert-romany-258b4b317/](https://www.linkedin.com/in/robert-romany-dev/)
 
-- 📝 I regularly write articles on Linkedin [https://www.linkedin.com/in/robert-romany-258b4b317/](https://www.linkedin.com/in/robert-romany-dev/)
+- 💬 Ask me about **Backend,.NET,C++,C,Algorithms,Data Structures,OOP**
 
-- 💬 Ask me about **Android,Kotlin,C++,C,Algorithms,Data Structures,OOP**
-
-- 📫 How to reach me **robert.romany.dev@gmail.com**
-
-- 📄 Know about my experiences [https://linktr.ee/RobertRomany](https://linktr.ee/RobertRomany)
-
+- 📫 How to reach me **menna.ibrahim.net@gmail.com**
+- 
 - ⚡fact **I think AM Helpful**
 
 <h3 align="left">Skills:</h3>
