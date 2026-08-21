@@ -66,24 +66,6 @@ class Program
   Backend Development, .NET, C++, C, Algorithms, Data Structures, and OOP.
 </p>
 
-<h2>📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.zohan.tech/api?username=MennaIbrahim10&show_icons=true&theme=radical" alt="Menna's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MennaIbrahim10&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MennaIbrahim10&theme=radical" alt="GitHub Streak" />
-</p>
-
-<h2>🏆 GitHub Trophies</h2>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=MennaIbrahim10" alt="GitHub Trophies" />
-  </a>
-</p>
-
 <h2>📫 Connect With Me</h2>
 <p>
   <a href="https://www.linkedin.com/in/menna-ibrahim-b0b030295/" target="_blank">
