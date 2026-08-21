@@ -1,7 +1,6 @@
 <img src="banner.svg" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Menna Ibrahim</h1>
-
 <p align="center">
   <strong>Software Engineer | Aspiring Full-Stack .NET Developer</strong>
 </p>
@@ -14,7 +13,6 @@
 <hr/>
 
 <h2>🧠 About Me</h2>
-
 <p>
   I'm a Software Engineer from Egypt, passionate about building software
   and learning backend development with .NET.
@@ -31,9 +29,7 @@ class SoftwareEngineer
 
     public void SayHi()
     {
-        Console.WriteLine(
-            "Thanks for dropping by, hope you find some of my work interesting."
-        );
+        Console.WriteLine("Thanks for dropping by, hope you find some of my work interesting.");
     }
 }
 
@@ -48,15 +44,13 @@ class Program
 ```
 
 <h2>🌱 Currently Learning</h2>
-
-<ul>
-  <li>ASP.NET Core MVC</li>
-  <li>ASP.NET Core Web API</li>
-  <li>Backend Development</li>
-</ul>
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core MVC" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core Web API" />
+  <img src="https://img.shields.io/badge/Backend_Development-000000?style=for-the-badge&logo=server&logoColor=white" alt="Backend Development" />
+</p>
 
 <h2>🛠️ Tech Stack</h2>
-
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
@@ -68,37 +62,39 @@ class Program
 </p>
 
 <h2>💬 Ask Me About</h2>
-
 <p>
   Backend Development, .NET, C++, C, Algorithms, Data Structures, and OOP.
 </p>
 
-<h2>📫 Connect With Me</h2>
-
-<p>
-  📝 <a href="https://www.linkedin.com/in/menna-ibrahim-b0b030295/">
-    LinkedIn
-  </a>
+<h2>📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MennaIbrahim10&show_icons=true&theme=radical" alt="Menna's GitHub Stats" />
 </p>
-
-<p>
-  📧 <strong>menna.ibrahim.net@gmail.com</strong>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MennaIbrahim10&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MennaIbrahim10&theme=radical" alt="GitHub Streak" />
 </p>
 
 <h2>🏆 GitHub Trophies</h2>
-
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=MennaIbrahim10"
-      alt="GitHub Trophies"
-    />
+    <img src="https://github-profile-trophy.vercel.app/?username=MennaIbrahim10" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<h2>📫 Connect With Me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/menna-ibrahim-b0b030295/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:menna.ibrahim.net@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 <h2>⚡ Fun Fact</h2>
-
 <p>
   I believe that being helpful is one of the best ways to grow and learn. 😊
 </p>
-
