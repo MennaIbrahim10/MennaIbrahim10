@@ -13,21 +13,26 @@
 
 <h2>💻 Code</h2>
 
-```kotlin
-class SoftwareEngineer {
+```C#
+class SoftwareEngineer
+{
+    string name = "Menna Ibrahim";
+    string role = "Software Engineer";
+    List<string> languageSpoken = new List<string> { "ar_EG", "en_US" };
 
-    var name: String = "Menna Ibrahim"
-    var role: String = "Software Engineer"
-    var languageSpoken: List<String> = listOf("ar_EG", "en_US")
-
-    fun sayHi() {
-        println("Thanks for dropping by, hope you find some of my work interesting.")
+    public void SayHi()
+    {
+        Console.WriteLine("Thanks for dropping by, hope you find some of my work interesting.");
     }
 }
 
-fun main() {
-    val me = SoftwareEngineer()
-    me.sayHi()
+class Program
+{
+    static void Main()
+    {
+        SoftwareEngineer me = new SoftwareEngineer();
+        me.SayHi();
+    }
 }
 ```
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2fed43d1-0532-442e-af80-08297915247b" />
