@@ -54,11 +54,16 @@ class Program
 <h2>🌱 Currently Learning</h2>
 
 <ul>
+  <li>ASP.NET Core Web API</li>
   <li>Backend Development</li>
-  <li>.NET & ASP.NET Core</li>
-  <li>Entity Framework Core</li>
-  <li>SQL Server</li>
 </ul>
+
+<h2>🛠️ Tech Stack</h2>
+
+<p>
+  C# • .NET • ASP.NET Core • Entity Framework Core • SQL Server
+  • LINQ • ADO.NET • HTML • CSS • Bootstrap
+</p>
 
 <h2>💬 Ask Me About</h2>
 
